@@ -27,7 +27,7 @@ function App() {
             className="App-link"
             href="https://redux.js.org/"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer" 
           >
             Redux
           </a>
