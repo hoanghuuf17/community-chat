@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/community-chat/static/css/main.59160398.chunk.css",
+    "main.js": "/community-chat/static/js/main.19ab366b.chunk.js",
+    "main.js.map": "/community-chat/static/js/main.19ab366b.chunk.js.map",
+    "runtime-main.js": "/community-chat/static/js/runtime-main.ab4735e0.js",
+    "runtime-main.js.map": "/community-chat/static/js/runtime-main.ab4735e0.js.map",
+    "static/css/2.2d3242fe.chunk.css": "/community-chat/static/css/2.2d3242fe.chunk.css",
+    "static/js/2.9f6b1f0a.chunk.js": "/community-chat/static/js/2.9f6b1f0a.chunk.js",
+    "static/js/2.9f6b1f0a.chunk.js.map": "/community-chat/static/js/2.9f6b1f0a.chunk.js.map",
+    "index.html": "/community-chat/index.html",
+    "static/css/2.2d3242fe.chunk.css.map": "/community-chat/static/css/2.2d3242fe.chunk.css.map",
+    "static/css/main.59160398.chunk.css.map": "/community-chat/static/css/main.59160398.chunk.css.map",
+    "static/js/2.9f6b1f0a.chunk.js.LICENSE.txt": "/community-chat/static/js/2.9f6b1f0a.chunk.js.LICENSE.txt",
+    "static/media/logo.e937cf71.png": "/community-chat/static/media/logo.e937cf71.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab4735e0.js",
+    "static/css/2.2d3242fe.chunk.css",
+    "static/js/2.9f6b1f0a.chunk.js",
+    "static/css/main.59160398.chunk.css",
+    "static/js/main.19ab366b.chunk.js"
+  ]
+}
